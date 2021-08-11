@@ -1,0 +1,10 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    
+}
+.Acc{
+    margin-top: 20px;
+}
